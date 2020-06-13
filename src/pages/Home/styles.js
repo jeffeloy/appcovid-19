@@ -16,3 +16,7 @@ export const TextHeader = styled.Text`
   font-weight: bold;
 `;
 export const StatusBar = styled.StatusBar``;
+export const CalloutContent = styled.View``;
+export const CalloutText = styled.Text`
+  color: #000;
+`;
